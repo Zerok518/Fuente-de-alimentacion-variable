@@ -6,7 +6,7 @@ Creación de una fuente de alimentación variable entre 5-12 V con entrada de 23
 Se tiene como objetivo de este proyecto la explicación de las diversas estapas de las que se construye una FA, las cuales son denominadas transformación, rectificación, filtrado y regulación
 
 Como componentes utilizados encontramos los siguientes:
-1. Transformador de 230V a 12V --> Se encarga de bajar el nivel de tensión al deseado (12V en mi caso)
+1. Transformador de 230V a 12V
 2. 4 Diodos 1N4007 para el puente rectificador de onda completa
 3. Condensador de filtrado electrolítico de 2200uF y 25V
 4. Regulador de voltaje LM7805 para fijar la salida a 5V
