@@ -22,6 +22,4 @@ El proyecto se compone de 4 etapas bien definidas:
 4. Regulación: El circuito integrado 7805 toma la tensión filtrada y la estabiliza a una salida exacta y limpia de 5V DC, protegiendo la carga contra variaciones
 
 Esquema Eléctronico:
-<img width="1174" height="414" alt="Screenshot From 2026-06-11 22-57-39" src="https://github.com/user-attachments/assets/df33cfe0-56d5-4628-8842-1a84ee1966f3" />
-
 
