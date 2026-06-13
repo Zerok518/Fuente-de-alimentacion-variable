@@ -59,6 +59,7 @@ $$I_{LED} = \frac{15.57\text{V} - 2\text{V}}{1000\Omega} \approx 13.57\text{mA}$
 $$
 
 Esquema Eléctronico:
+
 <img width="546" height="221" alt="image" src="https://github.com/user-attachments/assets/a99d50dd-718e-46a5-b30d-3b661b8255f1" />
 
 
