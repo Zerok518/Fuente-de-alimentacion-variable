@@ -1,6 +1,6 @@
 # Diseño-Fuente-de-Alimentación
 
-# Electronica
+# Especificaciones técnicas
 
 Creación de una fuente de alimentación variable entre 5-12 V con entrada de 230V 50Hz
 Se tiene como objetivo de este proyecto la explicación de las diversas estapas de las que se construye una FA, las cuales son denominadas transformación, rectificación, filtrado y regulación
